@@ -1,0 +1,7 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000 size:60%
+Hello everyone, my name is Aam, i'm trying to make subtitles on a video.
+
+00:00:02.000 --> 00:00:05.000 size:60%
+i hope this can go well
