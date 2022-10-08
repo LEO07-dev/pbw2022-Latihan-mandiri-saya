@@ -1,0 +1,69 @@
+.tekspertama{
+    color: red;
+    font-weight: bold;
+}
+#layout{
+    background-color: blue;
+    color: white;
+}
+
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+
+#header{
+    height: 150px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #00f;
+}
+
+.H, .M, .S, .A, .F{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#menu{
+    width: 960px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #00f;
+}    
+
+#content{
+    width: 960px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+}    
+
+.sidebar{
+    float: right;
+    width: 270px;
+    height: 500px;
+    background-color: #00f;
+}
+
+.artikel{
+    float: left;
+    width: 670px;
+    height: 500px;
+    background-color: #00f;
+}
+
+#footer{
+    width: 960px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #00f;
+}
