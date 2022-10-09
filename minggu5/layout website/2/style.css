@@ -30,7 +30,7 @@
 
 #menu{
     width: 960px;
-    height: 40px;
+    height: 100px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
@@ -39,7 +39,7 @@
 
 #content{
     width: 960px;
-    height: 500px;
+    height: 700px;
     margin-left: auto;
     margin-right: auto;
     background-color: #000;
@@ -48,14 +48,14 @@
 .sidebar{
     float: right;
     width: 270px;
-    height: 500px;
+    height: 700px;
     background-color: #00f;
 }
 
 .artikel{
     float: left;
     width: 670px;
-    height: 500px;
+    height: 700px;
     background-color: #00f;
 }
 
@@ -66,4 +66,63 @@
     margin-right: auto;
     margin-top: 20px;
     background-color: #00f;
+}
+
+.author{
+    text-align: left;
+    color: red;
+    font-weight: thin;
+}
+
+.gambar{
+    width: 250px;
+    height: 300px;
+}
+
+.status{
+    text-align: center;
+    color: #008000;
+    font-weight: thin;
+    font-size: 20px;
+}
+
+.H1{
+    text-align: center;
+    color: #00ffff;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.judul{
+    float: center !important;
+    color: #000000;
+    font-weight: bold;
+}
+
+.isi{
+    font-size: medium;
+    text-align: justify center;
+    color: #000000;
+    font-weight: thin;
+}
+
+.choice{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.5s;
+}
+
+.C{
+    color: #ffff00;
+    font-weight: thin;
+    font-size: 10px;
+}
+
+.sorry{
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 15px;
 }
